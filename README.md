@@ -30,7 +30,7 @@ pip install uv
 ### 2. Clone the repository
 
 ```bash
-git clone https://github.com/jesuscopado/local-voice-ai-agent.git
+git clone https://github.com/teja-srinath/EmbraceAI.git
 cd local-voice-ai-agent
 ```
 
